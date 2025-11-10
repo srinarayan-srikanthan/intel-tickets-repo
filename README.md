@@ -1,2 +1,4 @@
-# intel-tickets-repo
-Intel support tickets (Issues)
+# Intel Support Tickets
+
+- New tickets → GitHub Issues
+- Label: `open` → active, `closed` → resolved
